@@ -24,3 +24,5 @@ Available Functions:
 11) Get Customer Invoices Details by Customer Name
 12) Get Employee Details by Employee ID
 13) Get List of All Employees
+
+Progam can be tested and run here: https://replit.com/@ChingChiehChieh/chinookdbmanager
