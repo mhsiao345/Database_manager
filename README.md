@@ -8,7 +8,7 @@ Name: Marcos Hsiao
 
 Subject: User interface program for store management
 
-A GUI was developed around the readily available "Chinook" SQL sample database. The progam employs SQLite3 for the database interface.
+A GUI was developed around the readily available "Chinook" SQL sample database. The program employs SQLite3 for the database interface.
 
 Available Functions:
 1) Search by Artist ID
@@ -25,4 +25,4 @@ Available Functions:
 12) Get Employee Details by Employee ID
 13) Get List of All Employees
 
-Progam can be tested and run here: https://replit.com/@ChingChiehChieh/chinookdbmanager
+The code can be tested and run here: https://replit.com/@ChingChiehChieh/chinookdbmanager
